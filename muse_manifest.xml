@@ -1,0 +1,86 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RubenMartinezL.com" resolutions="1x" timestamp="1528832141241">
+  <folder name="css">
+    <file name="site_global.css" crc="171393636"/>
+    <file name="index.css" crc="273766985" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="demoreelfinal.mov" crc="3848572558" seo="true" mt="1528600255000"/>
+    <file name="cv-europass-20171107-martínezlópez-es.pdf" crc="388471746" seo="true" mt="1510057488000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u692.php" crc="25832388" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u146-4.png" crc="500519168" ref="index"/>
+    <file name="urban-city-lights-19_wwwfullhdwppcom_.jpg" crc="82549860" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="firma2-crop-u166.png" crc="170409864" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u576-4.png" crc="196785710" ref="index"/>
+    <file name="u259-4.png" crc="4239526664" ref="index"/>
+    <file name="firma108x108.png" crc="4286645838" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cascogenereal_001-crop-u808.jpg" crc="4098186426" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="martinezruben_crestanim1_0200-crop-u935.jpg" crc="18577872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="martinezruben_crestanim1camaralmao_0042-crop-u955.jpg" crc="58785547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montañero_cartoon-crop-u975.jpg" crc="3993004417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montañero_rubenmartinez-crop-u995.jpg" crc="4206379727" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cascogenereal_001-crop-u797.jpg" crc="356916409" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="martinezruben_crestanim1_0200-crop-u929.jpg" crc="359078709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="martinezruben_crestanim1camaralmao_0042-crop-u949.jpg" crc="77757105" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montañero_cartoon-crop-u969.jpg" crc="64200993" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montañero_rubenmartinez-crop-u989.jpg" crc="312676485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u569-10.png" crc="4084702200" ref="index"/>
+    <file name="u1256-4.png" crc="31281646" ref="index"/>
+    <file name="firma.png" crc="129988544" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u486-4.png" crc="4127778282" ref="index"/>
+    <file name="u743-4.png" crc="44341954" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3888401952" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4170892520" seo="true" mt="1528642771946" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="427912468" seo="true" mt="1528831888760" redirect="true"/>
+</manifest>
